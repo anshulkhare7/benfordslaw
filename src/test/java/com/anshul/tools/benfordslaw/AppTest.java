@@ -1,4 +1,4 @@
-package com.anshul.tools.bedfordslaw;
+package com.anshul.tools.benfordslaw;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

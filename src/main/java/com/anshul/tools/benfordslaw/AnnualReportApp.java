@@ -1,4 +1,4 @@
-package com.anshul.tools.bedfordslaw;
+package com.anshul.tools.benfordslaw;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -11,10 +11,10 @@ import java.util.List;
  * Benford's Law
  *
  */
-public class App {
+public class AnnualReportApp {
     public static void main( String[] args ){
 		String content = "";
-		String filePath = "/Users/anshul/Freelancing/Tech/bedfordslaw/data/reliance-AR.txt";	
+		String filePath = "/Users/data/reliance-AR.txt";	
 		
 		try{
 	        content = new String (Files.readAllBytes(Paths.get(filePath)));
