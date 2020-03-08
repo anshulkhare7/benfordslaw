@@ -11,3 +11,9 @@ Here are few more interesting instances where Benford’s law has been used:
 In this repository, I've included the code to run the Benford's analysis on an annual report of Indian Listed Company.
 
 ![Result of Benford's analysis of Reliance Comm Annual Report](https://user-images.githubusercontent.com/26899066/76157017-0f82b880-6129-11ea-80e6-3495e3e596f6.png)
+
+## Disclaimer
+
+This was a quick and sloppy experiment. Ideally, I should have scrubbed the numerical data before running my analysis, i.e., I should have filtered out the numbers which were not really financial data like the page numbers, section numbers, etc. I didn’t do all that.
+
+So please don’t rely on these results. It was an experiment more for fun rather than investigation.
